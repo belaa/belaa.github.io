@@ -2096,6 +2096,7 @@ input, select, textarea {
 		position: relative;
 		padding: 4em 0 2em 0;
 		background-image: url("images/mayall.jpg");
+		background-repeat: no-repeat;
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
 
