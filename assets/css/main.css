@@ -2095,7 +2095,7 @@ input, select, textarea {
 	#header-wrapper {
 		position: relative;
 		padding: 4em 0 2em 0;
-		background: url("images/mayall.jpg");
+		background-image: url("images/mayall.jpg");
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
 
