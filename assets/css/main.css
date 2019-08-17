@@ -2258,6 +2258,7 @@ input, select, textarea {
 		body.homepage #header:after {
 			content: '';
 			background-image: url("../../images/mayall.jpg");
+			background-repeat: no-repeat;
 			display: block;
 			position: absolute;
 			left: 0;
