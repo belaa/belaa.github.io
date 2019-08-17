@@ -2662,6 +2662,7 @@ input, select, textarea {
 			.wrapper {
 				padding-left: 2em;
 				padding-right: 2em;
+				padding-bottom: 20cm;
 			}
 
 		/* Header */
@@ -2673,7 +2674,6 @@ input, select, textarea {
 				#header .inner {
 					padding-left: 2em;
 					padding-right: 2em;
-					padding-bottom: 20cm;
 				}
 
 		/* Banner */
