@@ -2199,6 +2199,7 @@ input, select, textarea {
 			margin: 0;
 			display: inline-block;
 			vertical-align: middle;
+			padding-bottom: 20cm;
 		}
 
 		#header header {
@@ -2662,7 +2663,6 @@ input, select, textarea {
 			.wrapper {
 				padding-left: 2em;
 				padding-right: 2em;
-				padding-bottom: 20cm;
 			}
 
 		/* Header */
