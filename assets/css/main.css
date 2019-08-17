@@ -2176,6 +2176,10 @@ input, select, textarea {
 
 	#header {
 		position: relative;
+		background-image: url("../../images/mayall.jpg");		
+ 		background-size: cover;		
+ 		background-position: center center;		
+ 		background-attachment: fixed;
 		color: #fff;
 		text-align: center;
 		padding: 7.5em 0 2em 0;
@@ -2253,8 +2257,6 @@ input, select, textarea {
 
 		body.homepage #header:after {
 			content: '';
-			background-image: url("../../images/mayall.jpg");
-			background-repeat: no-repeat;
 			display: block;
 			position: absolute;
 			left: 0;
