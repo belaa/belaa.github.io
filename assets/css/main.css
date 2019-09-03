@@ -3016,7 +3016,7 @@ input, select, textarea {
 			}
 
 			.features article .image {
-				border-radius: 3px 3px 0 0;
+				border-radius: 5px 5px 0 0;
 				display: block;
 				margin-bottom: 1.75em;
 				margin-left: -1.75em;
@@ -3026,7 +3026,7 @@ input, select, textarea {
 			}
 
 				.features article .image img {
-					border-radius: 3px 3px 0 0;
+					border-radius: 5px 5px 0 0;
 					width: 100%;
 				}
 
